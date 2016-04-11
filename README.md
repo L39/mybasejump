@@ -11,8 +11,8 @@ Created by l39
 ## Example usage:
 
 ```url
-https://test-l39.c9users.io/December%2015,%202015
-https://test-l39.c9users.io/145013760
+https://basejump-l39.c9users.io/December%2015,%202015
+https://basejump-l39.c9users.io/145013760
 ```
 
 ## Example output:
